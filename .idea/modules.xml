@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/All/All.iml" filepath="$PROJECT_DIR$/All/All.iml" />
+      <module fileurl="file://$PROJECT_DIR$/All/Gzw/Gzw.iml" filepath="$PROJECT_DIR$/All/Gzw/Gzw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/All/Hxf/Hxf.iml" filepath="$PROJECT_DIR$/All/Hxf/Hxf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Parent/Parent.iml" filepath="$PROJECT_DIR$/Parent/Parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Three_Demo.iml" filepath="$PROJECT_DIR$/Three_Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Util/Util.iml" filepath="$PROJECT_DIR$/Util/Util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WEB_APP/WEB_APP.iml" filepath="$PROJECT_DIR$/WEB_APP/WEB_APP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/All/Wt/Wt.iml" filepath="$PROJECT_DIR$/All/Wt/Wt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/All/Wxx/Wxx.iml" filepath="$PROJECT_DIR$/All/Wxx/Wxx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/All/Xy/Xy.iml" filepath="$PROJECT_DIR$/All/Xy/Xy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/All/Zb/Zb.iml" filepath="$PROJECT_DIR$/All/Zb/Zb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/All/Zxt/Zxt.iml" filepath="$PROJECT_DIR$/All/Zxt/Zxt.iml" />
+    </modules>
+  </component>
+</project>

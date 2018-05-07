@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Hxf:war">
+    <output-path>$PROJECT_DIR$/All/Hxf/target</output-path>
+    <root id="archive" name="Hxf.war">
+      <element id="artifact" artifact-name="Hxf:war exploded" />
+    </root>
+  </artifact>
+</component>

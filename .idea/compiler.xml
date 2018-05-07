@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Gzw" />
+        <module name="Hxf" />
+        <module name="Parent" />
+        <module name="Util" />
+        <module name="WEB_APP" />
+        <module name="Wt" />
+        <module name="Wxx" />
+        <module name="Xy" />
+        <module name="Zb" />
+        <module name="Zxt" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="All" target="1.8" />
+      <module name="Gzw" target="1.8" />
+      <module name="Hxf" target="1.8" />
+      <module name="Parent" target="1.8" />
+      <module name="Three_Demo" target="1.8" />
+      <module name="Util" target="1.8" />
+      <module name="WEB_APP" target="1.8" />
+      <module name="Wt" target="1.8" />
+      <module name="Wxx" target="1.8" />
+      <module name="Xy" target="1.8" />
+      <module name="Zb" target="1.8" />
+      <module name="Zxt" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

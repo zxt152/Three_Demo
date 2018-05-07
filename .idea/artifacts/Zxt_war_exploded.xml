@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Zxt:war exploded">
+    <output-path>$PROJECT_DIR$/All/Zxt/target/Zxt</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Zxt" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/All/Zxt/target/Zxt/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="Zxt/web/Web" />
+    </root>
+  </artifact>
+</component>

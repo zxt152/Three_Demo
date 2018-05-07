@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Gzw:war">
+    <output-path>$PROJECT_DIR$/All/Gzw/target</output-path>
+    <root id="archive" name="Gzw.war">
+      <element id="artifact" artifact-name="Gzw:war exploded" />
+    </root>
+  </artifact>
+</component>
